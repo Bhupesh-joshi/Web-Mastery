@@ -1,0 +1,11 @@
+.box {
+    max-height: 100px;
+    border: 2px solid black;
+    overflow: scroll;
+}
+
+.new {
+    margin: 20px;
+    border: 2px solid black;
+} 
+

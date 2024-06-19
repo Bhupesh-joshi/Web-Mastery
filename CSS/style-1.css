@@ -1,0 +1,41 @@
+<style>
+
+        p {
+            color: red;
+        }
+
+        table{
+            border: 5px solid black;
+        }
+
+        .green {
+            color: green;
+        }
+
+        .blue {
+            color: blue;
+        }
+
+        .One-Three {
+            font-size: smaller;
+        }
+
+        .four-six {
+            font-size: larger;
+        }
+
+        #tempBtn {
+            color: red;
+        }
+
+        button:hover{
+            background-color: blueviolet;
+        }
+
+        #preTag {
+            color: yellow;
+            background-color: red;
+        }
+
+        
+    </style>
