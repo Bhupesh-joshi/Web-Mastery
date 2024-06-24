@@ -34,8 +34,8 @@
 
 .box:hover {
     background-color: blue;
-    width: 300px;
-    transform: rotate(45deg);
+    /* width: 300px;
+    transform: rotate(45deg); */
 
     transform: scale(1.5) translateX(501px) rotate(360deg);
 }
